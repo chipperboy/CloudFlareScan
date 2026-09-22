@@ -1,5 +1,9 @@
 # CloudFlareScan (ipv4&ipv6)  
 
+[![Downloads](https://img.shields.io/github/downloads/xiaolin-007/CloudFlareScan/total?style=flat-square&logo=github)](https://github.com/xiaolin-007/CloudFlareScan/releases)
+[![Latest Version](https://img.shields.io/github/release/xiaolin-007/CloudFlareScan.svg?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/releases)
+[![License](https://img.shields.io/github/license/xiaolin-007/CloudFlareScan?style=flat-square)](https://github.com/xiaolin-007/CloudFlareScan/blob/main/LICENSE)
+
 CloudFlare 扫描器 （简称CFS)  适配 Win  macOS  Android  Linux
 
 软件演示视频：https://www.youtube.com/watch?v=Fw2W4B77bts
